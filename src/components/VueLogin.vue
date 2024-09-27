@@ -1,3 +1,3 @@
 <template>
-    <p>Loging In</p>
+    <p>Loging Completed</p>
 </template>
